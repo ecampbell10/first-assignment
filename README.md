@@ -1,2 +1,2 @@
 # first-assignment
-practice repository, doing what we are learning in the DS lab 
+Practice repository, doing what we are learning in the DS lab 
